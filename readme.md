@@ -83,7 +83,7 @@ These exercises helped me understand the structure of shell scripts and how they
 
 ### Run it :
 
-![image](img/image 18.png)
+![image](img/carbon18.png)
 
 ### Exercise :
 
