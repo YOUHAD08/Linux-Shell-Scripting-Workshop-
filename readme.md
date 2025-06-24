@@ -20,7 +20,7 @@ These exercises helped me understand the structure of shell scripts and how they
 1. Open the Linux terminal.
 2. Create a directory for your scripts:
 
-![image](img\image1.png)
+![image](img/image1.png)
 
 ---
 
@@ -28,12 +28,12 @@ These exercises helped me understand the structure of shell scripts and how they
 
 ### Script: `hello.sh`:
 
-![image](img\image2.png)
-![image](img\image3.png)
+![image](img/image2.png)
+![image](img/image3.png)
 
 ### Make the script executable and run it:
 
-![image](img\image4.png)
+![image](img/image4.png)
 
 ---
 
@@ -41,18 +41,18 @@ These exercises helped me understand the structure of shell scripts and how they
 
 ### Script: `variable.sh`:
 
-![image](img\image5.png)
-![image](img\image6.png)
+![image](img/image5.png)
+![image](img/image6.png)
 
 ### Run the script:
 
-![image](img\image7.png)
+![image](img/image7.png)
 
 ### Make it interactive:
 
-![image](img\image8.png)
-![image](img\image9.png)
-![image](img\image10.png)
+![image](img/image8.png)
+![image](img/image9.png)
+![image](img/image10.png)
 
 ---
 
@@ -60,18 +60,18 @@ These exercises helped me understand the structure of shell scripts and how they
 
 ### Script: `condition.sh`:
 
-![image](img\image11.png)
-![image](img\image12.png)
-![image](img\image13.png)
-![image](img\image14.png)
+![image](img/image11.png)
+![image](img/image12.png)
+![image](img/image13.png)
+![image](img/image14.png)
 
 
 ### Exercise :
 
 **Modify the script to check if the number is even or odd:**
 
-![image](img\image15.png)
-![image](img\image16.png)
+![image](img/image15.png)
+![image](img/image16.png)
 
 ---
 
@@ -79,17 +79,17 @@ These exercises helped me understand the structure of shell scripts and how they
 
 ### Script: `boucle.sh`:
 
-![image](img\image17.png)
+![image](img/image17.png)
 
 ### Run it :
 
-![image](img\image18.png)
+![image](img/image18.png)
 
 ### Exercise :
 
 **Modify the script to check if the number is even or odd:**
 
-![image](img\image19.png)
+![image](img/image19.png)
 
 ---
 
@@ -99,7 +99,7 @@ These exercises helped me understand the structure of shell scripts and how they
 
 ### Script: `save.sh`:
 
-![image](img\image20.png)
+![image](img/image20.png)
 
 ### Run the script:
 
