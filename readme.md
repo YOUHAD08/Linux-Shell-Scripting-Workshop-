@@ -103,5 +103,5 @@ These exercises helped me understand the structure of shell scripts and how they
 
 ### Run the script:
 
-![image](img\image21.png)
+![image](img/image21.png)
 
